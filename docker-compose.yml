@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  web1:
+    image: meu-nginx
+    container_name: site-nginx
+    ports:
+      - "8080:80"
+
+  web2:
+    image: httpd:latest
+    container_name: segundo-site
+    ports:
+      - "8081:80"
