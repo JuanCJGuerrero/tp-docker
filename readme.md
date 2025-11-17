@@ -1,8 +1,7 @@
-```md
-### PÃ¡gina do Nginx personalizada
+### Página do Nginx personalizada
 ![Site Nginx](./imagens/browser-8080.png)
 
-### PÃ¡gina default do Apache
+### Página default do Apache
 ![Segundo container](./imagens/browser-8081.png)
 
 ### Print do docker
